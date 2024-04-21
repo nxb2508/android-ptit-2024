@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Sổ Nhật Ký"
+        android:icon="@drawable/ic_diary"
+        android:id="@+id/mDiary"/>
+    <item android:title="Thêm Đồ Ăn"
+        android:icon="@drawable/ic_add_food"
+        android:id="@+id/mFood"/>
+    <item android:title="Báo Cáo"
+        android:icon="@drawable/ic_statistic"
+        android:id="@+id/mStatistic"/>
+    <item android:title="Hồ Sơ"
+        android:icon="@drawable/ic_person"
+        android:id="@+id/mProfile"/>
+</menu>
